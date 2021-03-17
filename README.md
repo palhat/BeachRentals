@@ -1,2 +1,2 @@
 # BeachRentals
-Project created with Java that models creating customer contracts and calculating revenues. Reads data from a textfile and uses classes and methods to modify and use the data. 
+Project created with Java that models creating customer contracts and calculating revenues. Reads data from a textfile and uses classes and methods to modify and use the data. Outputs a contract number for each record from text file by combining item type, character designator for item, and system date. Also sums price based on number of hours and minutes over contracted hours. Then the program outputs total revenue of all contracts and revenue for each payment type. Finally, the program outputs total contracts and the number of each payment type contract,  
